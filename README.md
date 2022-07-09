@@ -1,1 +1,1 @@
-# Creating-Animation-with-OpenCv
+# Pizza - Not Pizza Classification
