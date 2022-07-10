@@ -1,2 +1,0 @@
-import cvzone
-import mediapipe
