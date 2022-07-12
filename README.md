@@ -3,7 +3,7 @@
 
 Using https://www.kaggle.com/datasets/gpiosenka/100-bird-species dataset i tried to predict bird species
 # ----------------------------------
-Results are okay but not great. In terms of time management i had to use small batch size and low epoch iteration
+Results are not great but okay. In terms of time management i had to use small batch size and low epoch iteration
 # ----------------------------------
 There is a quick demo below to demonstrate the local app
 
